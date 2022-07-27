@@ -1,0 +1,21 @@
+#map {
+    height: 360px;
+}
+
+.button{
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 600px;
+    margin-top: 20px;
+    display: inline-block;
+    padding: 13px 26px;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 100px;
+}
+
+.button:hover{
+    color: white;
+    background-color: black;
+}
